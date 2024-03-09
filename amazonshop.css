@@ -1,0 +1,74 @@
+*{
+  padding: 0;
+  margin: 0;
+  color: white;
+}
+#bar{
+  height: 60px;
+  background-color: black;
+
+ 
+}
+#logo{
+  font-size: 25px;
+  color: rgb(192, 135, 30);
+  
+
+}
+.search{
+  background-color: orange;
+  border: solid;
+  border-width: 1px;
+}
+a{
+  margin-right: 180px;
+  font-size: 20px;
+  
+  
+}
+img{
+  height: 400px;
+}
+P{
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+  color: black;
+}
+pre{
+font-family: 'Times New Roman', Times, serif;
+font-size: 18px;
+line-height: 30px;
+color: black;
+}
+.pro{
+  font-size: 20px;
+  font-family: Arial;
+}
+.add{
+  background-color: yellow;
+  color: black;
+  height: 50px;
+  width: 150px;
+  font-size: 20px;
+  border: none;
+  border-radius: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.buy{
+  background-color: rgb(234, 107, 9);
+  color: black;
+  height: 50px;
+  width: 150px;
+  font-size: 20px;
+  border: none;
+  border-radius: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+}
+.add:hover{
+  background-color: rgb(232, 232, 57);
+}
+.buy:hover{
+  background-color:rgb(230, 132, 57) ;
+}
